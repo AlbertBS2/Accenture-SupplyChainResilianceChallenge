@@ -11,4 +11,4 @@ This repository details a case study on supply chain resilience using data from 
 
 ## II. Installation
 
-After cloning the repository to your local machine, you first need to download the data from Accenture from [Kaggle](https://www.kaggle.com/competitions/datathon-2022-upc-accenture/data) (Kaggle account required). The path to cities_data.csv should then look something like data/datathon_SC_ACN_22/cities_data.csv. Then install all necessary dependencies. After that, run the notebook "Main.ipynb", which creates the model and places it in the models directory. 
+After cloning the repository to your local machine, you first need to download the data from Accenture from [Kaggle](https://www.kaggle.com/competitions/datathon-2022-upc-accenture/data) (Kaggle account required). The path to cities_data.csv should then look something like data/datathon_SC_ACN_22/cities_data.csv. Then install all necessary dependencies. After that, run the notebook "Main.ipynb".
